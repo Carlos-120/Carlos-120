@@ -35,8 +35,7 @@ Soy un desarrollador de software con 1 año de experiencia. Me apasiona crear so
         "databases": ["PostgreSQL"]
       },
       "isActive": "true"
-
-}
+  }
 }
 
 </pre>
